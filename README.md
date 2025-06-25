@@ -49,8 +49,6 @@ Adapted from their open-source implementation:
 
 ## Contact
 
-Julie Demuth  
-Bsc Econometrics and Data Science  
-University of Amsterdam  
+**Julie Demuth**  
+BSc Econometrics & Data Science, University of Amsterdam  
 E: demju599@gmail.com
-
