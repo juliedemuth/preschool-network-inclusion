@@ -10,7 +10,7 @@ BSc Econometrics and Data Science, University of Amsterdam (2025)
 ## Project Overview
 
 This repository contains all code and visualizations used to reproduce the results presented in the thesis.  
-The study examines how structural features — like transitivity, clustering, and homophily — shape peer interaction networks in inclusive preschool classrooms.
+The study examines how structural features shape peer interaction networks in inclusive preschool classrooms.
 
 
 
@@ -30,7 +30,7 @@ The interaction data is publicly available via:
 *Journal of Speech, Language, and Hearing Research*  
 [Dataset link via OSF](https://osf.io/84fwc/?view_only=306f65dcd1144d92b2bc87a185165c25)
 
-This repository does **not** host the dataset directly — users should download it manually and place it in the `data/` folder.
+This repository does **not** host the dataset directly - users should download it manually and place it in the `data/` folder.
 
 
 
