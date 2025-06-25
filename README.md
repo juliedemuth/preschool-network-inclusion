@@ -43,7 +43,7 @@ Structural testing is based on simulation methods introduced by:
 *The Econometric Analysis of Network Data*
 
 Adapted from their open-source implementation:  
-🔗 [https://github.com/bryangraham/Testing_Networks](https://github.com/bryangraham/Testing_Networks)
+[https://github.com/bryangraham/Testing_Networks](https://github.com/bryangraham/Testing_Networks)
 
 
 
