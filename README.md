@@ -2,7 +2,7 @@
 
 Code and analysis for the BSc thesis:  
 **"Detecting Network Externalities in Preschool Social Networks: Evidence from Inclusive Classrooms"**  
-by Julie Demuth  
+by Julie Demuth 
 BSc Econometrics and Data Science, University of Amsterdam (2025)
 
 
@@ -47,10 +47,10 @@ Adapted from their open-source implementation:
 
 
 
-## Requirements
+## Contact
 
-Install required Python libraries via:
-
-```bash
-pip install -r requirements.txt
+Julie Demuth  
+Bsc Econometrics and Data Science  
+University of Amsterdam  
+E: demju599@gmail.com
 
