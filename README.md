@@ -17,7 +17,7 @@ The study examines how structural features shape peer interaction networks in in
 ## Main Notebook
 
 Run the full analysis from preprocessing to figures:  
-[`notebook/thesis_network_analysis.ipynb`](notebook/thesis_network_analysis.ipynb)
+[`notebook_thesis_network_analysis.ipynb`](notebook_thesis_network_analysis.ipynb)
 
 
 
